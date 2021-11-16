@@ -9,6 +9,6 @@
   "author": "davidh <david@productividadti.com.mx> (productividadti.com.mx)",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.480.0"
+    "aws-sdk": "^2.814.0"
   }
 }
